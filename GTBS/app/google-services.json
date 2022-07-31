@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "944275500153",
+    "firebase_url": "https://gamingtradebuysell-default-rtdb.firebaseio.com",
+    "project_id": "gamingtradebuysell",
+    "storage_bucket": "gamingtradebuysell.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944275500153:android:04d9f8eb0b97195d3078a8",
+        "android_client_info": {
+          "package_name": "clz.project.gtbs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944275500153-gfe8n017409cfjqqp8uqc7nj4qbath47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "clz.project.gtbs",
+            "certificate_hash": "378bab19d8c6ff9147cbe3e24e26ff16519e0b57"
+          }
+        },
+        {
+          "client_id": "944275500153-f0b21ntjqur9un791ttqdknttcppj5r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKYhbbOhcJgnVKgJMr0cM8rq9Rjq_pw1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944275500153-f0b21ntjqur9un791ttqdknttcppj5r1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

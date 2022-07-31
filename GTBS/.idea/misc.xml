@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/drawable-v24/border.xml" value="0.2545" />
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/drawable/btn_blue_full.xml" value="0.2545" />
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/drawable/btn_blue_half.xml" value="0.2545" />
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/drawable/btn_login.xml" value="0.2265" />
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/drawable/btn_login_full.xml" value="0.2265" />
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/drawable/button_background_input.xml" value="0.2265" />
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/drawable/butttons.xml" value="0.2265" />
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2545" />
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/drawable/intro_btn_gradient_style.xml" value="0.2265" />
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/drawable/introindicator_selected.xml" value="0.2265" />
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/drawable/introindicator_selector.xml" value="0.2265" />
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/layout/activity_admin_addnewproduct.xml" value="0.264" />
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/layout/activity_admincategory.xml" value="0.264" />
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/layout/activity_adminpanel.xml" value="0.12706270627062707" />
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/layout/activity_cart.xml" value="0.2" />
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/layout/activity_homepage.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/layout/activity_intro.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/layout/activity_intro_home.xml" value="0.264" />
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/layout/activity_new_user_app_info.xml" value="0.2" />
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/layout/activity_otp.xml" value="0.2" />
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/layout/activity_phone_number.xml" value="0.2" />
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/layout/activity_product_details.xml" value="0.2" />
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/layout/activity_setting.xml" value="0.264" />
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/layout/activity_settings.xml" value="0.2" />
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/layout/activity_splash.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/layout/app_bar_homepage.xml" value="0.264" />
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/layout/cart_items_layout.xml" value="0.2" />
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/layout/content_homepage.xml" value="0.2" />
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/layout/fragment_gallery.xml" value="0.12706270627062707" />
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/layout/fragment_home.xml" value="0.12706270627062707" />
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/layout/fragment_slideshow.xml" value="0.12706270627062707" />
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/layout/introlayout_screen.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/layout/nav_header_homepage.xml" value="0.264" />
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/layout/product_items.xml" value="0.1265625" />
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/BloodyE/AndroidStudioProjects/GTBS/app/src/main/res/menu/homepage.xml" value="0.2" />
+        <entry key="..\:/Users/BloodyE/Downloads/GTBS-master/GTBS-master/GTBS/app/src/main/res/layout/cart_items_layout.xml" value="0.11302083333333333" />
+        <entry key="..\:/gtbs/GTBS-master/GTBS-master/GTBS/app/src/main/res/layout/activity_cart.xml" value="0.25416666666666665" />
+        <entry key="..\:/gtbs/GTBS-master/GTBS-master/GTBS/app/src/main/res/layout/activity_cart2.xml" value="0.25416666666666665" />
+        <entry key="..\:/gtbs/GTBS-master/GTBS-master/GTBS/app/src/main/res/layout/cart_items_layout.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -97,7 +97,7 @@ public class NewUserAppInfo extends AppCompatActivity {
         btnGetStarted.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent homepage = new Intent(getApplicationContext(),Homepage.class);
+                Intent homepage = new Intent(getApplicationContext(),LoginActivity.class);
                 startActivity(homepage);
 
                 savePrefsData();

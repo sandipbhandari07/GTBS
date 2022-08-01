@@ -32,17 +32,20 @@
         >
 
     </androidx.recyclerview.widget.RecyclerView>
+
     <Button
         android:id="@+id/next_process_btn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:text="Next"
-        android:background="@color/blue"
-        android:textColor="@color/white"
-        android:layout_margin="10dp"
-        android:textSize="20dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
 
-        />
+        android:background="@color/blue"
+        android:text="Next"
+        android:textColor="@color/white"
+        android:textSize="20dp" />
 
 </RelativeLayout>
